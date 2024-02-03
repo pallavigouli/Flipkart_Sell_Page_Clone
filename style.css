@@ -1,0 +1,46 @@
+body{
+    font-size: 23px;
+    background-image: linear-gradient(to bottom,rgb(235, 222, 222),rgb(186, 175, 175),rgb(242, 129, 242),rgb(228, 179, 179));
+}  
+button{
+        background-color: rgb(32, 32, 251);
+        color: white;
+        padding: 8px 22px;
+        font-size: 18px; 
+    }
+    .maindiv{ 
+        padding: 25px;       
+    }
+    .topdiv{
+        margin: 20px;
+        padding: 4px;
+    }
+    input{
+        padding: 15px 13px;
+       
+    }
+    #name,#email,#GSTIN{
+        padding: 12px 185px;
+        font-size: 17px;
+        border-radius: 10px;
+    }
+    #category{
+        color: rgb(91, 91, 238);
+        font-size: 14px;
+    }
+    .blockdiv{
+        display: flex;
+        align-items: center;
+    }
+    span{
+        padding: 15px 75px;
+    }
+    #category,#books{
+        color: blue;
+        font-weight: 20px;
+    }  
+    h1{
+        text-align: center;
+        color: rgb(245, 63, 63);
+        text-shadow: 5px 2px wheat;
+    } 
